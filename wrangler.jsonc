@@ -1,0 +1,5 @@
+{
+  "name": "cfpau",
+  "main": "./_worker.js",
+  "compatibility_date": "2026-09-03"
+}

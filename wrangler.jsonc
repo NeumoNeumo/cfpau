@@ -1,0 +1,13 @@
+{
+  "name": "cfpau",
+  "main": "./_worker.js",
+  "compatibility_date": "2026-01-20",
+  "keep_vars": true,
+
+  "kv_namespaces": [
+    {
+      "binding": "C",
+      "id": "4bb462fed1e54567ab7cd5f4023f039d"
+    }
+  ]
+}
